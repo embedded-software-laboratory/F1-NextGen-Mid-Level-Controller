@@ -1,0 +1,2 @@
+TimeStamp create_stamp
+TimeStamp valid_after_stamp
